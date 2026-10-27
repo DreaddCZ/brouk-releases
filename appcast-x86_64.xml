@@ -3,6 +3,17 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Tue, 27 Oct 2026 06:07:12 GMT</pubDate>
+      <sparkle:version>0.1.1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.1.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>Help: open the built-in help from the Help menu to read how Brouk&#x27;s features work. Settings and other parts of the app have &quot;?&quot; buttons that open the matching help section.</li></ul><h3>Fixed</h3><ul><li>Automatic updates now find new releases. The previous release was published without its update information, so the browser couldn&#x27;t see it.</li><li>Bold text in release notes now appears correctly in the update window.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.1.1/Brouk-0.1.1-x86_64.dmg" type="application/octet-stream" sparkle:edSignature="cr/REwkiPssGlT7lJfGwvqFgzY346d2vrAv5X1WvX6Em50QhH88dOOh2g5e7p8Pf5KPTjJmwP01s3KBln+OYCw==" length="132146464" />
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <pubDate>Mon, 26 Oct 2026 21:45:13 GMT</pubDate>
       <sparkle:version>0.1.0</sparkle:version>
