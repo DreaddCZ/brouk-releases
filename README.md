@@ -19,6 +19,12 @@ Brouk runs on macOS 15 or later.
 Open the disk image and drag Brouk onto the Applications folder. Each release
 lists the SHA-256 checksums of its images in `SHA256SUMS.txt`.
 
+## Reporting a problem or an idea
+
+[Open an issue](https://github.com/DreaddCZ/brouk-releases/issues/new/choose)
+and pick **Bug report** or **Feature idea**. Issues here are public: don't
+include client names, internal addresses or screenshots of client systems.
+
 ## Update feeds
 
 Installed copies of Brouk read these feeds (Sparkle):
