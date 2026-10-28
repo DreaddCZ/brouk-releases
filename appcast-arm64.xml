@@ -3,6 +3,16 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.2.1</title>
+      <pubDate>Wed, 28 Oct 2026 23:36:00 GMT</pubDate>
+      <sparkle:version>0.2.1</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>Open-source licences page: Help → Open-Source Licences opens a tab that lists Brouk&#x27;s licence and every third-party component with its licence text, including Chromium&#x27;s notices. About Brouk points to it.</li></ul><h3>Changed</h3><ul><li>Updated the browser engine to Chromium 156 (CEF 156.0.14).</li></ul><h3>Fixed</h3><ul><li>Fixed a rare crash when opening a link from another app.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.2.1/Brouk-0.2.1-arm64.dmg" type="application/octet-stream" sparkle:edSignature="WwGy2KDCQZMcGt0s9T3xslhmjWczOLxqGWYyLySJWpVLP3Xp7GNf+FJMVZUHcZTy31PmdB01WUn5GRq75n9HDQ==" length="119127187" />
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Wed, 28 Oct 2026 06:50:01 GMT</pubDate>
       <sparkle:version>0.2.0</sparkle:version>
