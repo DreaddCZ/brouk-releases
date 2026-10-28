@@ -3,6 +3,17 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Wed, 28 Oct 2026 06:50:02 GMT</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li><b>Task manager</b>: a new window that lists open tabs and the browser&#x27;s background tasks, grouped by process, with memory, CPU, network use and process IDs. From it you can pause or unload tabs to free up resources. A paused tab shows a still picture of the page until you resume it. Settings let you adjust the task manager, and help has a new section on it.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.2.0/Brouk-0.2.0-x86_64.dmg" type="application/octet-stream" sparkle:edSignature="zRQcktcDi1QsRS2ixdlkty3oVWuTdbv6NrdsRefA1CC2zR/ABhnAj0xqyLDhnBDk47tKiCbNgSQSuYsetJB5Cg==" length="132250015" />
+    </item>
+    <item>
       <title>Version 0.1.2</title>
       <pubDate>Tue, 27 Oct 2026 19:40:05 GMT</pubDate>
       <sparkle:version>0.1.2</sparkle:version>
