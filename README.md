@@ -30,20 +30,16 @@ Each release lists the SHA-256 checksums of its images in `SHA256SUMS.txt`.
 administrator rights. Its SHA-256 checksum is in
 `Brouk-<version>-setup.exe.sha256`.
 
-## Code signing policy
+## Code signing
 
-Windows releases: free code signing provided by
-[SignPath.io](https://about.signpath.io/), certificate by
-[SignPath Foundation](https://signpath.org/). *(Applied for; until the
-application is approved, the Windows installer is not signed, and Windows
-SmartScreen warns about an unknown publisher: choose More info → Run anyway.)*
 macOS releases are signed with the maintainer's Apple Developer ID and
-notarized by Apple.
+notarized by Apple. The Windows installer is not code-signed, so Windows
+SmartScreen warns about an unknown publisher: choose More info → Run anyway.
+Updates on both systems are checked against Brouk's own signing key before
+they are installed.
 
-Team roles, the build rules and the privacy policy: see
-[Code signing policy](https://github.com/DreaddCZ/brouk#code-signing-policy)
-and [Privacy](https://github.com/DreaddCZ/brouk#privacy) in the source
-repository.
+Privacy: see [Privacy](https://github.com/DreaddCZ/brouk#privacy) in the
+source repository.
 
 ## Reporting a problem or an idea
 
