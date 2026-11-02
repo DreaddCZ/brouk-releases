@@ -15,15 +15,35 @@ source for a release is its tag `v<version>` in
 
 ## Download
 
-Brouk runs on macOS 15 or later.
+Brouk runs on macOS 15 or later and on Windows 10 and 11 (x64).
 
 - **Latest release:** [Releases](https://github.com/DreaddCZ/brouk-releases/releases)
-  - Apple Silicon (M1 and later): `Brouk-<version>-arm64.dmg`
-  - Intel: `Brouk-<version>-x86_64.dmg`
+  - Mac with Apple Silicon (M1 and later): `Brouk-<version>-arm64.dmg`
+  - Mac with Intel: `Brouk-<version>-x86_64.dmg`
+  - Windows: `Brouk-<version>-setup.exe`
 - Beta versions are marked as pre-releases.
 
-Open the disk image and drag Brouk onto the Applications folder. Each release
-lists the SHA-256 checksums of its images in `SHA256SUMS.txt`.
+**macOS:** open the disk image and drag Brouk onto the Applications folder.
+Each release lists the SHA-256 checksums of its images in `SHA256SUMS.txt`.
+
+**Windows:** run the installer. It installs Brouk for you only, without
+administrator rights. Its SHA-256 checksum is in
+`Brouk-<version>-setup.exe.sha256`.
+
+## Code signing policy
+
+Windows releases: free code signing provided by
+[SignPath.io](https://about.signpath.io/), certificate by
+[SignPath Foundation](https://signpath.org/). *(Applied for; until the
+application is approved, the Windows installer is not signed, and Windows
+SmartScreen warns about an unknown publisher: choose More info → Run anyway.)*
+macOS releases are signed with the maintainer's Apple Developer ID and
+notarized by Apple.
+
+Team roles, the build rules and the privacy policy: see
+[Code signing policy](https://github.com/DreaddCZ/brouk#code-signing-policy)
+and [Privacy](https://github.com/DreaddCZ/brouk#privacy) in the source
+repository.
 
 ## Reporting a problem or an idea
 
@@ -37,7 +57,8 @@ Security problems: report them privately, as described in
 
 ## Update feeds
 
-Installed copies of Brouk read these feeds (Sparkle):
+Installed copies of Brouk read these feeds:
 
-- https://dreaddcz.github.io/brouk-releases/appcast-arm64.xml
-- https://dreaddcz.github.io/brouk-releases/appcast-x86_64.xml
+- https://dreaddcz.github.io/brouk-releases/appcast-arm64.xml (macOS, Sparkle)
+- https://dreaddcz.github.io/brouk-releases/appcast-x86_64.xml (macOS, Sparkle)
+- https://dreaddcz.github.io/brouk-releases/windows-x64.json (Windows)
