@@ -3,6 +3,17 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.3.3</title>
+      <pubDate>Mon, 02 Nov 2026 23:11:31 GMT</pubDate>
+      <sparkle:version>0.3.3</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.3.3</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>Sites that ask for a sign-in through the browser itself (HTTP authentication) now show Brouk&#x27;s own sign-in dialog. It fills in the site&#x27;s saved login, asks again if the login is refused, and offers to save or update the login once the page loads.</li></ul><h3>Changed</h3><ul><li>History, Passwords, Bookmarks, Downloads and the licences page now open the way Chrome opens its own pages. If one is already open, Brouk switches to it. Otherwise it opens as the last tab of the window, in the default profile&#x27;s group. Closing it takes you back to the tab you opened it from.</li></ul><h3>Fixed</h3><ul><li>Brouk now offers to save a login when the site opens your session in a new tab after you sign in. A save prompt waiting on a background tab now shows when you come back to that tab. Sign-in buttons placed outside the login form now work too.</li><li>On macOS, the address bar icons (star, key, shield, zoom, blocked pop-ups and others) no longer cover long addresses. They now sit side by side on the right, and the address ends before them.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.3.3/Brouk-0.3.3-arm64.dmg" type="application/octet-stream" sparkle:edSignature="VNlvyuShIFPm9JpeK9O3Qd7LXbs8Btmwr5c7Q8N0jRNJHNsCCEAfBVbi0poIC6UaiZ9nanTqXUlYD9p2bIxOCA==" length="119956059" />
+    </item>
+    <item>
       <title>Version 0.3.2</title>
       <pubDate>Mon, 02 Nov 2026 16:43:44 GMT</pubDate>
       <sparkle:version>0.3.2</sparkle:version>
