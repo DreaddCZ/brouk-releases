@@ -3,6 +3,17 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Mon, 02 Nov 2026 07:51:56 GMT</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.3.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li><b>Brouk for Windows (beta).</b> Brouk now runs on Windows. It comes with a per-user installer that needs no administrator rights.</li><li>Brouk updates itself on Windows. It downloads the newest release of your chosen channel and checks its signature. The update installs when you quit, or right away with Restart to update.</li><li>You can make Brouk your default browser on Windows from Settings → Links.</li><li>On Windows, tabs sit in the title bar, with snap layouts and light and dark mode that follow the system. You get tab tooltips, Chrome&#x27;s tab menu, muting, and a speaker icon on tabs that play sound.</li><li>Profiles on Windows: tab groups in each profile&#x27;s colour, the profile manager, export and import, and dragging a tab to another profile.</li><li>Link routing on Windows works with the profile and window picker. It shows live window previews and uses Windows virtual desktops in place of Spaces.</li><li>Passwords on Windows: the built-in password manager or Bitwarden. Unlock with Windows Hello, and fill and save passwords on sites. Keys are kept in Windows Credential Manager, and copied passwords stay out of the clipboard history.</li><li>Autofill on Windows: fill and save forms, with export and import in Settings → Autofill.</li><li>Ad blocking on Windows, with the shield button and its popup, the blocked requests window and the element picker.</li><li>Developer tools on Windows, docked in the tab or in their own window (F12, Ctrl+Shift+I/J/C). Tabs opened from a tab that has them open start with them on.</li><li>Bookmarks on Windows: the star, the bookmarks bar with site icons and dropped links, the menu, the manager, and Undo after deleting.</li><li>History, clear browsing data, reopening closed tabs and session restore on Windows.</li><li>Downloads on Windows, with a list under the toolbar button and progress on the taskbar.</li><li>On Windows: address bar suggestions, the command palette (Ctrl+K), find in page, zoom, printing, full screen, and the task manager with pause and unload.</li><li>On Windows: page dialogs, permission prompts, the crash page with Chrome&#x27;s names for crash codes, the screen sharing picker, the blocked pop-ups indicator, the settings window with live reload, and help (F1).</li></ul><h3>Changed</h3><ul><li>Brouk now remembers whether a window was maximised when it restores your last session.</li></ul><h3>Fixed</h3><ul><li>Sign-in pages that forward you on by themselves no longer clutter your history.</li><li>New tab pages always open at 100 % zoom.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.3.0/Brouk-0.3.0-arm64.dmg" type="application/octet-stream" sparkle:edSignature="oS932w4SERH0DLu2HFMdc6150RTNFuFkvGm78nfNBU2g7L7H7HaDrcWm46aDoEKA4nAps0QF1eHmnLB5Ki3ZCw==" length="119190221" />
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Wed, 28 Oct 2026 23:36:00 GMT</pubDate>
       <sparkle:version>0.2.1</sparkle:version>
