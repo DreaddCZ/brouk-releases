@@ -1,0 +1,12 @@
+{
+  "releases": [
+    {
+      "version": "0.3.1",
+      "channel": "beta",
+      "url": "https://github.com/DreaddCZ/brouk-releases/releases/download/v0.3.1/Brouk-0.3.1-setup.exe",
+      "size": 143004765,
+      "ed_signature": "baLGhXxKHyGm1bnjEoEuFeq8Dkw77sMeV2qwHfINn37hRs2uJeaZz85RqQmQ5qsr/8j+I7SemE9s6MCxS7fKCQ==",
+      "notes_url": "https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.3.1"
+    }
+  ]
+}
