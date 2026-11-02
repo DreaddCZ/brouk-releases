@@ -3,6 +3,17 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.3.2</title>
+      <pubDate>Mon, 02 Nov 2026 16:43:45 GMT</pubDate>
+      <sparkle:version>0.3.2</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.3.2</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>Brouk has its own beetle icon. It shows on the macOS app, the Windows program and its windows, and the Windows installer.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.3.2/Brouk-0.3.2-x86_64.dmg" type="application/octet-stream" sparkle:edSignature="ieR7lNhLNOymxzmCTG11rAtbgDoRma8Jrf4FNwTUW+4KF+Lz+cf/GgIWS4ZsL4Rt3unw3aPgHtt4cQhqZ3m/Cg==" length="136166712" />
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Mon, 02 Nov 2026 08:59:28 GMT</pubDate>
       <sparkle:version>0.3.1</sparkle:version>
