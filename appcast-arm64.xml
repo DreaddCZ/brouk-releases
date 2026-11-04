@@ -3,6 +3,17 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Wed, 04 Nov 2026 09:08:59 GMT</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.4.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>Drag tabs and profile groups between windows on macOS and Windows. Drop one on another window&#x27;s tab strip, or outside any window to open it in a new one.</li><li>Drag group labels to reorder profile groups.</li><li>Tab and group menus now have &quot;Move … to Another Window&quot;, and on macOS the Tab menu has &quot;Move Tab to New Window&quot;. Moved tabs keep their page state without reloading.</li><li>Brouk now keeps a log of warnings on macOS and Windows, with size-limited log files.</li><li>A new debug logging setting records more detail for 24 hours, including Chromium&#x27;s own log, to help track down problems.</li></ul><h3>Changed</h3><ul><li>VoiceOver can now read tabs and group labels and reach their menus.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.4.0/Brouk-0.4.0-arm64.dmg" type="application/octet-stream" sparkle:edSignature="NxSnYhJHZHeg5qWhuUJuWRFwU9d99wfysAgLTGDhPpr/jH50/dA1UO26VBnlld8qHgPG9bccvO+0jHviFiUsBA==" length="120087630" />
+    </item>
+    <item>
       <title>Version 0.3.3</title>
       <pubDate>Mon, 02 Nov 2026 23:11:31 GMT</pubDate>
       <sparkle:version>0.3.3</sparkle:version>
