@@ -1,6 +1,14 @@
 {
   "releases": [
     {
+      "version": "0.4.0",
+      "channel": "beta",
+      "url": "https://github.com/DreaddCZ/brouk-releases/releases/download/v0.4.0/Brouk-0.4.0-setup.exe",
+      "size": 143134435,
+      "ed_signature": "28oSZ968gPlkIBI4aU6ArDcmSmN8bTouqiR8r5dyG5pDnnBNzifQ7O4w2klHpjvRqman+EATeVF/lQypRTPNCw==",
+      "notes_url": "https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.4.0"
+    },
+    {
       "version": "0.3.3",
       "channel": "beta",
       "url": "https://github.com/DreaddCZ/brouk-releases/releases/download/v0.3.3/Brouk-0.3.3-setup.exe",
