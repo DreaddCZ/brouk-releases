@@ -3,6 +3,16 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.6.0</title>
+      <pubDate>Sun, 22 Nov 2026 13:35:37 GMT</pubDate>
+      <sparkle:version>0.6.0</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.6.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>Brouk for Windows is now available from the Microsoft Store. Stable releases are published there.</li><li>The Store version is updated by the Store. &quot;Check for updates&quot; and the update settings send you to the Store.</li><li>In the Store version, you set Brouk as your default browser through the Windows settings, as with other Store apps.</li><li>If you already have Brouk from the installer, the Store version offers to uninstall that copy the first time it starts. Your profiles and settings stay, because both copies use the same data.</li></ul><h3>Fixed</h3><ul><li>Fixed a crash in the ad blocker on pages with deeply nested `blob:` links.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.6.0/Brouk-0.6.0-x86_64.dmg" type="application/octet-stream" sparkle:edSignature="6kF2CJpDcoCiHbRz+9o2Mo8qKlNobGpIRnGYxTkZ4JKFzXyl6Y/mnB3U7DgPTWEn3mDc9+pYCNUdsnIMxXI0Ag==" length="142961087" />
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <pubDate>Thu, 05 Nov 2026 10:14:19 GMT</pubDate>
       <sparkle:version>0.5.0</sparkle:version>
