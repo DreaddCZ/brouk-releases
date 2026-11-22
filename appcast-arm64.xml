@@ -3,6 +3,16 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.7.0</title>
+      <pubDate>Sun, 22 Nov 2026 23:09:25 GMT</pubDate>
+      <sparkle:version>0.7.0</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.7.0</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li>On Windows, keyboard shortcuts can now be changed in Settings. They default to Chrome&#x27;s Windows shortcuts and accept Ctrl and Alt. Menus, the bookmarks bar and the command palette show the shortcuts currently in use.</li></ul><h3>Fixed</h3><ul><li>Help now matches the system you&#x27;re on. On Windows it shows Windows shortcuts and menus, and it lists the shortcuts you have set yourself.</li><li>On Windows, the bookmark manager and the task manager now use Ctrl instead of ⌘, and End process uses Del. The &quot;another Space&quot; setting now says &quot;desktop&quot; there.</li><li>Copying or cutting the whole address from the address bar now always gives you the full URL, including `https://`.</li><li>On macOS, the address bar no longer replaces what you are typing when the page changes, for example while a new tab is redirecting.</li><li>Sign-in pages that use FedCM no longer crash the browser. These sites now show their normal sign-in page.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.7.0/Brouk-0.7.0-arm64.dmg" type="application/octet-stream" sparkle:edSignature="DaQL1eBR1WlkN81J/5GVY+MgdcmL8nBz//B6DRkbgBLJQU4tGjc+GTOvyMqXjLvC+JUMiBjt0ILPiajLMAPsDg==" length="124659406" />
+    </item>
+    <item>
       <title>Version 0.6.0</title>
       <pubDate>Sun, 22 Nov 2026 13:35:37 GMT</pubDate>
       <sparkle:version>0.6.0</sparkle:version>
