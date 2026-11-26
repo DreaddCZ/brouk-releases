@@ -3,6 +3,16 @@
   <channel>
     <title>Brouk</title>
     <item>
+      <title>Version 0.7.1</title>
+      <pubDate>Thu, 26 Nov 2026 12:51:33 GMT</pubDate>
+      <sparkle:version>0.7.1</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/DreaddCZ/brouk-releases/releases/tag/v0.7.1</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<h3>New</h3><ul><li><b>Import from the direct download (Windows Store version):</b> when it first starts, and later from Settings, the Store version offers to move or copy your data from the direct download version. The import runs when Brouk restarts, before any data is opened. If you choose to move it, Brouk then opens Windows&#x27; Installed apps so you can uninstall the direct download.</li></ul><h3>Changed</h3><ul><li>The Windows Store version now keeps its own data and keys, separate from the direct download version.</li></ul>]]></description>
+      <enclosure url="https://github.com/DreaddCZ/brouk-releases/releases/download/v0.7.1/Brouk-0.7.1-x86_64.dmg" type="application/octet-stream" sparkle:edSignature="16HGrnGv7nViRkb6zOVbaoJ3mU5/pJ0Ofn7o/KRn7IwaV6oOEWGsHQ5aO7lmEEbpR2CgNoC2Pzr7WID4eL24BA==" length="142920923" />
+    </item>
+    <item>
       <title>Version 0.7.0</title>
       <pubDate>Sun, 22 Nov 2026 23:09:26 GMT</pubDate>
       <sparkle:version>0.7.0</sparkle:version>
